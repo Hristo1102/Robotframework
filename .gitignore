@@ -21,6 +21,7 @@ Thumbs.db
 *.log
 *.html
 *.xml
+*.iml
 [Bb]in
 [Dd]ebug*/
 *.lib
